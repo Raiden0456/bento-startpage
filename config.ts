@@ -117,9 +117,9 @@ export const config: Config = {
         url: 'https://app.todoist.com/app/',
       },
       {
-        name: 'Calendar',
-        icon: 'calendar',
-        url: 'https://calendar.google.com/calendar/r',
+        name: 'ChatGPT',
+        icon: 'fa-robot',
+        url: 'https://chat.openai.com/',
       },
       {
         name: 'Reddit',
