@@ -37,8 +37,8 @@ onBeforeMount(() => {
     <link rel="stylesheet" :href="store.themeCss" :class="store.colors" />
     <div class="flex h-full w-full flex-col items-center justify-between">
       <div class="flex w-full flex-row">
-        <div class="w-2/3 lg:w-1/3"></div>
-        <SearchBar v-if="config.componentsEnabled.searchBar" class="w-1/3 pt-4" />
+        <div class="w-1/6 xl:w-1/3"></div>
+        <SearchBar v-if="config.componentsEnabled.searchBar" class="w-2/3 xl:w-1/3 pt-4" />
         <ThemeButton :class="config.componentsEnabled.themeButton ? '' : 'hidden'" class="ml-auto mr-2" />
       </div>
       <div class="flex h-2/5 w-full flex-row items-center">
