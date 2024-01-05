@@ -174,23 +174,23 @@ export const config: Config = {
     // If you're using the 'bento' layout, this is the only group that will be used.
     [
       {
-        icon: 'music', // Icon for the list to use. The same as the buttons.
+        icon: 'fab-spotify', // Icon for the list to use. The same as the buttons.
         links: [
           {
-            name: 'LoFi', // Display text for the link
-            url: 'https://www.youtube.com/watch?v=jfKfPfyJRdk', // URL to the page
+            name: 'Home', // Display text for the link
+            url: 'https://open.spotify.com', // URL to the page
           },
           {
-            name: 'Medieval LoFi',
-            url: 'https://www.youtube.com/watch?v=eEZF9iIv5XM&t=850s',
+            name: 'Lo-Fi',
+            url: 'https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn',
           },
           {
-            name: 'Oldies',
-            url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            name: 'House',
+            url: 'https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e',
           },
           {
-            name: 'Rock',
-            url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            name: 'Liked Songs',
+            url: 'https://open.spotify.com/collection/tracks',
           },
         ],
       },
@@ -198,7 +198,7 @@ export const config: Config = {
         icon: 'coffee',
         links: [
           {
-            name: 'Linkedin',
+            name: 'LinkedIn',
             url: 'https://www.linkedin.com',
           },
           {
