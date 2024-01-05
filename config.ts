@@ -11,7 +11,7 @@ import { Config } from './src/types/config';
 // Use an editor with Typescript support to get autocomplete and validity checking!
 export const config: Config = {
   // General
-  name: 'John',
+  name: 'Vrezh',
   openInNewTab: true,
   title: 'Bento',
 
@@ -24,7 +24,7 @@ export const config: Config = {
     // 'google' or 'local'
     source: 'google',
     // Font name, e.g. 'Roboto' (case sensitive)
-    name: 'Overpass',
+    name: 'Space Grotesk',
   },
 
   // Theme
@@ -104,17 +104,17 @@ export const config: Config = {
       {
         name: 'Github', // set the name of the card
         icon: 'fab-github', // provide a FontAwesome icon name. Regular icons (fa-) don't require a prefix, while FA-Brands icons must be prefixed with "fab-"
-        url: 'https://github.com/', // provide a link to the page.
+        url: 'https://github.com/Raiden0456', // provide a link to the page.
       },
       {
         name: 'Mail',
         icon: 'envelope',
-        url: 'https://mail.protonmail.com/',
+        url: 'https://mail.google.com/mail/',
       },
       {
         name: 'Todoist',
         icon: 'list-ol',
-        url: 'https://todoist.com',
+        url: 'https://app.todoist.com/app/',
       },
       {
         name: 'Calendar',
@@ -127,9 +127,9 @@ export const config: Config = {
         url: 'https://reddit.com',
       },
       {
-        name: 'Odysee',
+        name: 'YouTube',
         icon: 'fab-youtube',
-        url: 'https://odysee.com/',
+        url: 'https://www.youtube.com/',
       },
     ],
     // Second buttons group
@@ -177,12 +177,12 @@ export const config: Config = {
         icon: 'music', // Icon for the list to use. The same as the buttons.
         links: [
           {
-            name: 'Inspirational', // Display text for the link
-            url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ', // URL to the page
+            name: 'LoFi', // Display text for the link
+            url: 'https://www.youtube.com/watch?v=jfKfPfyJRdk', // URL to the page
           },
           {
-            name: 'Classic',
-            url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            name: 'Medieval LoFi',
+            url: 'https://www.youtube.com/watch?v=eEZF9iIv5XM&t=850s',
           },
           {
             name: 'Oldies',
@@ -202,16 +202,16 @@ export const config: Config = {
             url: 'https://www.linkedin.com',
           },
           {
-            name: 'Dribbble',
-            url: 'https://www.dribbble.com',
+            name: 'Figma',
+            url: 'https://figma.com/',
           },
           {
             name: 'Trello',
             url: 'https://www.trello.com',
           },
           {
-            name: 'Slack',
-            url: 'https://www.slack.com',
+            name: 'T1 GiTea',
+            url: 'http://t1.crossnetics.io:3000/',
           },
         ],
       },
