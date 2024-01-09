@@ -112,9 +112,9 @@ export const config: Config = {
         url: 'https://mail.google.com/mail/',
       },
       {
-        name: 'Todoist',
-        icon: 'list-ol',
-        url: 'https://app.todoist.com/app/',
+        name: 'WhatsApp',
+        icon: 'fab-whatsapp',
+        url: 'https://web.whatsapp.com/',
       },
       {
         name: 'ChatGPT',
