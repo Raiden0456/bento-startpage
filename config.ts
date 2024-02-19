@@ -210,8 +210,8 @@ export const config: Config = {
             url: 'https://www.trello.com',
           },
           {
-            name: 'T1 GiTea',
-            url: 'http://t1.crossnetics.io:3000/',
+            name: 'GitLab Crossnetics',
+            url: 'https://git.crossnetics.io/',
           },
         ],
       },
