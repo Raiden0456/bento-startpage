@@ -210,7 +210,7 @@ export const config: Config = {
             url: 'https://www.trello.com',
           },
           {
-            name: 'GitLab Crossnetics',
+            name: 'GitLab',
             url: 'https://git.crossnetics.io/',
           },
         ],
