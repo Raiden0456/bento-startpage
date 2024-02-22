@@ -206,8 +206,8 @@ export const config: Config = {
             url: 'https://figma.com/',
           },
           {
-            name: 'Trello',
-            url: 'https://www.trello.com',
+            name: 'daily.dev',
+            url: 'https://app.daily.dev/',
           },
           {
             name: 'GitLab',
