@@ -211,7 +211,7 @@ export const config: Config = {
           },
           {
             name: 'GitLab',
-            url: 'https://git.crossnetics.io/',
+            url: 'https://gitlab.crossnetics.io/',
           },
         ],
       },
