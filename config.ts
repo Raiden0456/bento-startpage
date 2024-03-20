@@ -198,21 +198,21 @@ export const config: Config = {
         icon: 'coffee',
         links: [
           {
+            name: 'GitLab',
+            url: 'https://gitlab.crossnetics.io/',
+          },
+          {
+            name: 'Jira',
+            url: 'https://crossnetics.atlassian.net/jira/your-work',
+          },
+          {
             name: 'LinkedIn',
             url: 'https://www.linkedin.com',
           },
           {
-            name: 'Figma',
-            url: 'https://figma.com/',
-          },
-          {
             name: 'daily.dev',
             url: 'https://app.daily.dev/',
-          },
-          {
-            name: 'GitLab',
-            url: 'https://gitlab.crossnetics.io/',
-          },
+          }
         ],
       },
     ],
