@@ -199,21 +199,21 @@ export const config: Config = {
         icon: 'coffee',
         links: [
           {
+            name: 'GitLab',
+            url: 'https://gitlab.crossnetics.io/',
+          },
+          {
+            name: 'Jira',
+            url: 'https://crossnetics.atlassian.net/jira/your-work',
+          },
+          {
             name: 'LinkedIn',
             url: 'https://www.linkedin.com',
           },
           {
-            name: 'Figma',
-            url: 'https://figma.com/',
-          },
-          {
-            name: 'Trello',
-            url: 'https://www.trello.com',
-          },
-          {
-            name: 'T1 GiTea',
-            url: 'http://t1.crossnetics.io:3000/',
-          },
+            name: 'daily.dev',
+            url: 'https://app.daily.dev/',
+          }
         ],
       },
     ],
