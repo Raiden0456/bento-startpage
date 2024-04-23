@@ -1,12 +1,24 @@
 :root {
     /* Light Colors  */
 
-    --background: #DCD7BA; /* Background color */
-    --accent: #2A2A37; /* Hover color */
-    --cards: #C8C093; /* Cards color */
+    /*--background: #DCD7BA; !* Background color *!*/
+    /*--accent: #2A2A37; !* Hover color *!*/
+    /*--cards: #C8C093; !* Cards color *!*/
+
+    /*!* Fonts Color *!*/
+    /*--fg: #2A2A37; !* Foreground color *!*/
+    /*--sfg: #DCA561; !* Sceondary Foreground color *!*/
+
+    /*!* Image background  *!*/
+    /*--imgcol: linear-gradient(rgba(248, 248, 242, 0.7), rgba(248, 248, 242, 0.7)); !* Filter color *!*/
+
+
+    --background: #1F1F28; /* Background color */
+    --accent: #16161D; /* Hover color */
+    --cards: #2A2A37; /* Cards color */
 
     /* Fonts Color */
-    --fg: #2A2A37; /* Foreground color */
+    --fg: #C8C093; /* Foreground color */
     --sfg: #DCA561; /* Sceondary Foreground color */
 
     /* Image background  */
