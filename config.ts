@@ -200,11 +200,11 @@ export const config: Config = {
         links: [
           {
             name: 'GitLab',
-            url: 'https://gitlab.crossnetics.io/',
+            url: 'https://gitlab.hwdev.ru',
           },
           {
-            name: 'Jira',
-            url: 'https://crossnetics.atlassian.net/jira/your-work',
+            name: 'YouTrack',
+            url: 'https://youtrack.hwdev.ru',
           },
           {
             name: 'LinkedIn',
