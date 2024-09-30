@@ -200,11 +200,11 @@ export const config: Config = {
         links: [
           {
             name: 'GitLab',
-            url: 'https://gitlab.hwdev.ru',
+            url: 'https://git.apps-tonbox.me/',
           },
           {
             name: 'YouTrack',
-            url: 'https://youtrack.hwdev.ru',
+            url: 'https://nexusverse.atlassian.net/jira/your-work',
           },
           {
             name: 'LinkedIn',
