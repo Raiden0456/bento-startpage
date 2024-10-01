@@ -199,20 +199,20 @@ export const config: Config = {
         icon: 'coffee',
         links: [
           {
-            name: 'GitLab',
+            name: 'GitNexus',
             url: 'https://git.apps-tonbox.me/',
           },
           {
-            name: 'YouTrack',
+            name: 'Jirexus',
             url: 'https://nexusverse.atlassian.net/jira/your-work',
           },
           {
-            name: 'LinkedIn',
-            url: 'https://www.linkedin.com',
+            name: 'GitKodix',
+            url: 'https://git.outside.dev/',
           },
           {
-            name: 'daily.dev',
-            url: 'https://app.daily.dev/',
+            name: 'YanTrack',
+            url: 'https://tracker.yandex.ru/pages/my',
           }
         ],
       },
